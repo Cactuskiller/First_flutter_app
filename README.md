@@ -1,6 +1,6 @@
-#Dice Roller Game - Flutter Project
+# Dice Roller Game - Flutter Project
 
-##Project Overview
+## Project Overview
 
 The Dice Roller Game is a simple mobile application built using Flutter and Dart. The main functionality of the app is to simulate the rolling of a dice, generating a random number between 1 and 6 each time the user presses a button. This project serves as a practical introduction to Flutter's core concepts and the Dart programming language.
 
@@ -19,7 +19,7 @@ The Dice Roller Game is a simple mobile application built using Flutter and Dart
 
 - Dart: The programming language used to write the logic and UI code for the application.
 
-##Project Structure 
+## Project Structure 
 
 dice_roller/
 │
@@ -39,7 +39,7 @@ dice_roller/
 │
 └── pubspec.yaml         # Configuration file for dependencies and assets
 
-##Installation and Setup
+## Installation and Setup
 
 1- Clone the repository: 
  use the following code => git clone https://github.com/yourusername/dice-roller.git
