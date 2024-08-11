@@ -21,23 +21,23 @@ The Dice Roller Game is a simple mobile application built using Flutter and Dart
 
 ## Project Structure 
 
-### dice_roller/
-### │
-### ├── lib/
-### │   ├── main.dart        # Main entry point of the application
-### │   └── gradient_container.dart  # Custom widget to handle the main UI
-### │   └── roller_dice.dart     #  Custom widget to handel the dynamic change of the dice UI
-### |   └── styled_text.dart     #  Custom widget to handel the text style
-### |
-### ├── assets/
-### │   ├── dice_1.png        # Image assets for dice faces
-### │   ├── dice_2.png
-### │   ├── dice_3.png
-### │   ├── dice_4.png
-### │   ├── dice_5.png
-### │   └── dice_6.png
-### │
-### └── pubspec.yaml         # Configuration file for dependencies and assets
+#### dice_roller/
+#### │
+#### ├──> lib/
+#### │   ├──> main.dart        # Main entry point of the application
+#### │   └──> gradient_container.dart  # Custom widget to handle the main UI
+#### │   └──> roller_dice.dart     #  Custom widget to handel the dynamic change of the dice UI
+#### |   └──> styled_text.dart     #  Custom widget to handel the text style
+#### |
+#### ├── assets/
+#### │   ├──> dice_1.png        # Image assets for dice faces
+#### │   ├──> dice_2.png
+#### │   ├──> dice_3.png
+#### │   ├──> dice_4.png
+#### │   ├──> dice_5.png
+#### │   └──> dice_6.png
+#### │
+#### └──> pubspec.yaml         # Configuration file for dependencies and assets
 
 ## Installation and Setup
 
