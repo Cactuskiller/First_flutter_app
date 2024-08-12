@@ -83,7 +83,7 @@ The configuration file for the project, which includes dependencies like flutter
 Contributions are welcome! Please fork the repository and create a pull request with your changes.
 
 ## License
-This project is licensed under the MIT License. See the LICENSE file for more details, view it here => `https://github.com/Cactuskiller/Roll_the_dice/blob/master/LICENSES`
+This project is licensed under the MIT License. See the LICENSE file for more details, view it here => https://github.com/Cactuskiller/Roll_the_dice/blob/master/LICENSES
 
 
 
